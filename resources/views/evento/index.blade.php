@@ -15,7 +15,7 @@
                     <th scope="col">Cod</th>
                     <th scope="col">Evento</th>
                     <th scope="col">Descripción</th>
-                    <th scope="col">Editar</th>
+                    <th scope="col">Modificar</th>
                     <th scope="col">Eliminar</th>
                     
                 </tr>
