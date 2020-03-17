@@ -3,7 +3,7 @@
 @section('content')
     <div class="row">
         <div class="col">
-            <h1>Eventos</h1>
+            <h1>Eventos V2.o</h1>
         </div>
     </div>
     
